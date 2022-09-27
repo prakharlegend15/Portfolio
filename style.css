@@ -81,7 +81,7 @@ margin-bottom: 50px;
     margin-top: 40px;
     margin-left: 40px;
 }
-#portfolio{
+#Skills{
     display: flex;
     flex-direction: column;
 }
@@ -112,7 +112,7 @@ margin-bottom: 50px;
     outline: none;
 }
 .mail{
-    color: #fff;
+    color: violet;
     text-decoration: none;
     margin: 10px 0px;
     margin-right: 100px;
